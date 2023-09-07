@@ -1,0 +1,11 @@
+D:\VSProjects\InterruptChecker\InterruptChecker\bin\Debug\InterruptChecker.exe.config
+D:\VSProjects\InterruptChecker\InterruptChecker\bin\Debug\InterruptChecker.exe
+D:\VSProjects\InterruptChecker\InterruptChecker\bin\Debug\InterruptChecker.pdb
+D:\VSProjects\InterruptChecker\InterruptChecker\bin\Debug\InterruptChecker.xml
+D:\VSProjects\InterruptChecker\InterruptChecker\obj\Debug\InterruptChecker.vbprojAssemblyReference.cache
+D:\VSProjects\InterruptChecker\InterruptChecker\obj\Debug\InterruptChecker.Form1.resources
+D:\VSProjects\InterruptChecker\InterruptChecker\obj\Debug\InterruptChecker.Resources.resources
+D:\VSProjects\InterruptChecker\InterruptChecker\obj\Debug\InterruptChecker.vbproj.GenerateResource.cache
+D:\VSProjects\InterruptChecker\InterruptChecker\obj\Debug\InterruptChecker.exe
+D:\VSProjects\InterruptChecker\InterruptChecker\obj\Debug\InterruptChecker.xml
+D:\VSProjects\InterruptChecker\InterruptChecker\obj\Debug\InterruptChecker.pdb
